@@ -1,6 +1,7 @@
-public class Tdd{
+public class Test{
 	public static void main(String[] args)
 	{
+
 
 		System.out.println("Hello world");
 		System.out.println("welcome";)
@@ -10,6 +11,7 @@ public class Tdd{
 		System.out.println("Hello world3");
 		System.out.println("Hello world4");
 		System.out.println("Hello world5");
+
 		System.out.println("Hello world6");
 	
 		
@@ -18,3 +20,8 @@ public class Tdd{
 
 	}
 }
+
+		System.out.println("Hello world6");		
+     }
+}
+
